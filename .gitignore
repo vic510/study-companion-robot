@@ -1,0 +1,12 @@
+# Local environment and downloaded models (re-create with README steps)
+.venv/
+models/
+
+# Study data: participant logs stay off GitHub (privacy)
+logs/
+
+__pycache__/
+*.pyc
+
+# Backup demo recording (shows team members' faces)
+slides/backup_demo.mp4
