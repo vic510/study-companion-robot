@@ -1,6 +1,3 @@
-# AI-GENERATED CODE: written by Claude (Anthropic, Claude Opus 5.5) via Claude Code,
-# October 2026. Requirements, design decisions and pilot testing by Group 10.
-# See AI_DISCLOSURE.md for which parts came from the team.
 """Download the MediaPipe models (face ~3.8 MB, pose ~5.5 MB) into models/."""
 
 import urllib.request
