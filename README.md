@@ -18,7 +18,3 @@ py -m venv .venv
 ```
 
 Add `--targets screen` if you only have one screen. Tests: `python -m pytest tests`.
-
-## AI disclosure
-
-The Python code was generated with Claude Code under our requirements and pilot-test findings, as required by the course. See [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md).
